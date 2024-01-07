@@ -1,4 +1,9 @@
+*{
+	   font-size: 1.1eM;
 
+}
+
+}
 table{
 	 border-style: solid;
 	 border-color: #898989;
@@ -12,7 +17,7 @@ th {
 	 Background-color:yellow;
 	           padding: 5px;
             text-align: center;
-	   font-size: 1.4EM;
+	
 	
 }
 caption {    text-align: center;
