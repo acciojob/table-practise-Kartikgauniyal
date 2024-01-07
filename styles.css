@@ -1,11 +1,14 @@
 
-
- TH,TD,table {
-   border: 1px solid;
-	background-color:yellow;
-	           padding: 10px;
+table{
+	 border-style: solid;
+	 border-color: #898989;
+}
+ table,TH,TD, {
+  border-style: double;
+	 Background-color:yellow;
+	           padding: 5px;
             text-align: center;
-	   font-size: 1.3EM;
+	   font-size: 1.4EM;
 	
 }
 caption {    text-align: center;
