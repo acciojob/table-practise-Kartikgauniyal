@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+TABLE{
+	background-color:yellow;
+	BORDER-COLLAPSE: COLLAPSE;
+	WIDTH:50%;
+	MARGIN: 20PX AUTO;
+} 
+.caption {    text-align: center;
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 10px;}
+th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
