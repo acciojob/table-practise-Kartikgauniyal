@@ -3,8 +3,12 @@ table{
 	 border-style: solid;
 	 border-color: #898989;
 }
- table,TH,TD, {
-  border-style: double;
+td,table{
+	 Background-color:yellow;
+} 
+th {
+  border-style: solid;
+	 border-color:black #898989 #898989 black  ;
 	 Background-color:yellow;
 	           padding: 5px;
             text-align: center;
