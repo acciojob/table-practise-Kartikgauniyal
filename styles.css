@@ -1,29 +1,3 @@
-*{
-	   font-size: 1.1eM;
-
-}
-
-}
-table{
-	 border-style: solid;
-	 border-color: #898989;
-}
-td,table{
-	 Background-color:yellow;
-} 
-th {
-  border-style: solid;
-	 border-color:black #898989 #898989 black  ;
-	 Background-color:yellow;
-	           padding: 5px;
-            text-align: center;
-	
-	
-}
-caption {    text-align: center;
-            font-weight: bold;
-            font-size: 1.2em;
-            margin-bottom: 10px;}
 
 
     
