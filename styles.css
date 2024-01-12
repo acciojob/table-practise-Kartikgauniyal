@@ -1,20 +1,25 @@
 table {
-            border-collapse: collapse;
+           
             width: 100%;
             background-color: yellow;
+	
+	
         }
 
-        table, th, td {
-            border: 1px solid black;
+        table, th, td { 
+           
+					
         }
 
-        th, td {
+        th, td { 
             padding: 10px;
             text-align: left;
+			 border: 1px solid black  ;
+			
         }
 
         th {
-            background-color: #f2f2f2;
+            
         }
 
         caption {
